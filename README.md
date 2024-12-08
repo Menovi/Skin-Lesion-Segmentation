@@ -14,3 +14,8 @@ and normalization to improve image quality and accuracy. The
 ISBI2016 dataset was used to train and test these models, and
 the results showed that UNet performed slightly better than
 the others in terms of accuracy and computational efficiency.
+
+
+Dataset used :  ISIC2016 Challenge dataset
+https://challenge.isic-archive.com/data/
+
